@@ -32,6 +32,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7052FC7D27F5C60700B89DC8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E326D2AE27EB4010003618E8 /* MBDI_WS5_AlwaysNoteApp.swift */,
+				E326D2B227EB4010003618E8 /* Assets.xcassets */,
+				E326D2B427EB4010003618E8 /* Preview Content */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		E326D2A227EB4010003618E8 = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +61,8 @@
 		E326D2AD27EB4010003618E8 /* MBDI_WS5_AlwaysNote */ = {
 			isa = PBXGroup;
 			children = (
-				E326D2AE27EB4010003618E8 /* MBDI_WS5_AlwaysNoteApp.swift */,
+				7052FC7D27F5C60700B89DC8 /* Resources */,
 				E326D2B027EB4010003618E8 /* ContentView.swift */,
-				E326D2B227EB4010003618E8 /* Assets.xcassets */,
-				E326D2B427EB4010003618E8 /* Preview Content */,
 			);
 			path = MBDI_WS5_AlwaysNote;
 			sourceTree = "<group>";
